@@ -1,0 +1,1 @@
+perm <- function(n,k){choose(n,k) * factorial(k)}
